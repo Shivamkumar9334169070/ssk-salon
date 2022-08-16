@@ -1,0 +1,59 @@
+#head{
+    background-color: black;
+}
+.head1{
+    font-size: 100px;
+}
+#right{
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#bo{
+    background-image: url("background.jpg");
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: white;
+    margin-left: 120px;
+    text-decoration: none;
+    text-overflow: none;
+    cursor: pointer;
+}
+a:hover{
+    color:gold;
+    background-color: brown;
+}
+#one{
+    float: left;
+    margin-right: 20px;
+    margin-left: 40px;
+}
+#two{
+    float: right;
+    
+}
+#th{
+    float: right;
+}
+#fo{
+    float: right;
+}
+#fi{
+    float: right;
+}
+#foot{
+    background-image: linear-gradient(to right,grey,violet,green,purple,pink);
+    text-align: center;
+    text-decoration: wavy;
+    background-color: gray;
+    /* margin-top: 300px; */
+}
+#im{
+    background-image: linear-gradient(to right,grey,violet,green,purple,pink);
+    /* background-color: grey; */
+}

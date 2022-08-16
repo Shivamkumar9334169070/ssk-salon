@@ -1,0 +1,52 @@
+*{
+    color: black;
+    font-weight: 1000;
+    
+}
+.one{
+    background-image: url("contactus.jpg");
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    background-color: crimson;
+    background-position: center;
+    
+    width: 100%;
+    height: 400px;
+    /* color: white; */
+    opacity: 0.6;
+}
+nav{
+     /* margin-left: 3000px;
+      
+     */
+     float: right;
+}
+#center{
+    text-align: center;
+}
+#id1{
+    margin-left: 40px;
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+#id2{
+float :right;
+}
+#grad{
+    background-image: linear-gradient(to right,white,aqua,violet,green,yellow,indigo);
+}
+#cgrad{
+    border-radius: 50%;
+    background-image: radial-gradient(violet,indigo,brown,green,yellow,orange,red);
+}
+
+submit{
+    cursor: pointer;
+}
+i{
+    margin-left: 150px;
+}
+i:hover{
+    letter-spacing: 0.5rem;
+}
